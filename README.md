@@ -23,3 +23,15 @@ Outras funcionalidades são as de ver informações do elenco, favoritar filmes 
 - JavaScript
 - TailwindCSS
 - Expo
+
+<div>
+  <h2>
+    Como executar o projeto
+  </h2>
+ Depois de você baixar todas as dependências da aplicação, rode no seu terminal o seguinte comando:
+  
+  ```sh
+npx expo start
+```
+Logo após, no terminal vai te mostrar várias opções de onde rodar a aplicação
+</div>
